@@ -1,0 +1,4 @@
+# generated build output (main.ts writes it; the server regenerates it)
+out/
+# local grade trial directories
+grade-local-*/
